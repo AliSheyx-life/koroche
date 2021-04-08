@@ -1,0 +1,98 @@
+@media(max-width: 1199px) {
+    .section-title{
+        font-size: 22px;
+        margin-bottom: 15px;
+    }
+    
+    .section-subtitle{
+        font-size: 17px;
+        margin-bottom: 17px;
+    }
+    
+    .section-text{
+        font-size: 13px;
+    }
+    
+    .main .tabs{
+        width: 450px;
+    }
+    
+    .main .tabs .nav .nav-link{
+        font-size: 15px;
+    }
+    
+    .main .tabs .tab-content{
+        padding: 0;
+    }
+    
+    .main .tabs .tab-content .text {
+        font-size: 14px;
+        padding: 20px;
+        margin-bottom: 0;
+    }
+    
+    .main .tabs .tab-content .items{
+        padding: 20px;
+    }
+    
+    .main .tabs .tab-content .items ul {
+        width: 100%;
+        margin-bottom: 0;
+    }
+    
+    .main .tab-content .items > img{
+        width: 100%;
+    }
+    
+    .main:nth-child(4) .tabs {
+        margin-top: 40px;
+        width: 100%;
+        height: auto;
+    }
+    
+    .main:nth-child(4) .tabs p.text,
+    .main:nth-child(4) .tabs .items{
+        display: none;
+    } 
+    
+    .main:nth-child(4) .tabs .tab-content{
+        padding: 20px;
+    }
+    
+    .main:nth-child(4) .tabs .tab-content .nemo{
+        width: 100%;
+        align-items: center;
+    }
+    
+    .main:nth-child(4) .tabs .tab-content .nemo p{
+        margin: 0;
+    }
+    
+    .main:nth-child(4) .tabs .tab-content .nemo .fa{
+        padding: 0;
+    }
+    
+    .main:nth-child(4) .tabs .tab-content .nemo-text{
+        width: 100%;
+        font-size: 15px;
+    }
+    
+    .promotional video{
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    
+    .gallery{
+        margin: 0;
+    }
+    
+    .gallery .slider{
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    
+    section{
+        margin: 0;
+        padding: 40px 0 !important;
+    }
+}
